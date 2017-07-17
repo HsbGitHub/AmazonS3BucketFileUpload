@@ -49,11 +49,11 @@ public class AmazonS3BucketFileUpload {
 	}
 
 	public static void main(String[] args) throws IOException {
-		imagepull();
+		amazonS3BucketFileUploadOps();
 
 	}
 
-	public static void imagepull()  {
+	public static void amazonS3BucketFileUploadOps()  {
 		
 		try {
 
